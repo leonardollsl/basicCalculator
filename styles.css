@@ -38,7 +38,7 @@
     transition: 0.2s ease-in-out;
 }
 
-.calcResultado {
+#calcResultado {
     background-color: rgb(168, 129, 129);
     width: 213px;
     height: 30px;
